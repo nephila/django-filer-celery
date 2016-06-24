@@ -1,0 +1,3 @@
+tests/*
+docs/*
+filer_celery/migrations/*
